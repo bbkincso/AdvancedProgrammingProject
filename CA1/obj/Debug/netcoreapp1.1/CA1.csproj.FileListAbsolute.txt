@@ -1,0 +1,20 @@
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.deps.json
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.runtimeconfig.json
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.runtimeconfig.dev.json
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.dll
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.pdb
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.csprojResolveAssemblyReference.cache
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.csproj.CoreCompileInputs.cache
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.AssemblyInfo.cs
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.dll
+C:\Users\Kancsi\Desktop\Advanced Programming\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.pdb
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.deps.json
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.runtimeconfig.json
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.runtimeconfig.dev.json
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.dll
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\bin\Debug\netcoreapp1.1\CA1.pdb
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.csprojResolveAssemblyReference.cache
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.csproj.CoreCompileInputs.cache
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.AssemblyInfo.cs
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.dll
+C:\Users\Kancsi\Desktop\CA1\CA1\CA1\obj\Debug\netcoreapp1.1\CA1.pdb
